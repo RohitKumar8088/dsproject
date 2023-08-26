@@ -1,0 +1,7 @@
+{
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "python.analysis.diagnosticSeverityOverrides": {
+        // "reportMissingModuleSource": "none"
+    }
+    
+}
